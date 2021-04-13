@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'https://cdn.jsdelivr.net/gh/qingzhitech/index/images/bg01.jpg': 'center',
+							'https://cdn.jsdelivr.net/gh/qingzhitech/index/images/bg02.jpg': 'center',
+							'https://cdn.jsdelivr.net/gh/qingzhitech/index/images/bg03.jpg': 'center'
 						},
 
 					// Delay.
